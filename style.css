@@ -1,0 +1,28 @@
+h1 {
+    font-family: Tahoma, sans-serif;
+     font-size: 45px;
+     text-shadow: 4px 4px 4px rgb(255, 255, 255);
+      color: rgb(110, 110, 250)
+}
+
+h2 {
+    font-family: Tahoma, sans-serif;
+     font-size: 45px;
+     text-shadow: 4px 4px 4px rgb(255, 255, 255);
+      color: rgb(110, 110, 250)
+}
+
+
+body {
+    color:skyblue;
+    font-family:Tahoma;
+    font-weight:bold ;
+    background-color: cornflowerblue;
+}
+
+img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height:auto
+}
